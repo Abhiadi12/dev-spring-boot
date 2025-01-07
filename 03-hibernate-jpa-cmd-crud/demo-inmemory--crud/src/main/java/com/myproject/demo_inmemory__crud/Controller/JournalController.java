@@ -38,5 +38,4 @@ public class JournalController {
         jornalEntries.put(myId, body);
         return true;
     }
-
 }
